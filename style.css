@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+.name-highlight{
+    color: goldenrod;
+}
+.header-half h1{
+    font-size: 40px;
+    margin: 0px;
+}
+.header-half{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding: 2%;
+}
+.header-half img{
+    width: 100%;
+}
